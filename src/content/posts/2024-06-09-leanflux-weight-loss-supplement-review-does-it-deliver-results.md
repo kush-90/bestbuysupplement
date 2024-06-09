@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "LeanFlux Weight Loss Supplement Review: Does it Deliver Results?"
-slug: LeanFlux review
+slug: LeanFlux-review
 date: 2024-06-09 21:46
 description: If you're struggling with weight loss and looking for a supplement
   to help you achieve your goals, you may have come across LeanFlux. This
